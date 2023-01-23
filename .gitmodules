@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:Hammer-Institute/boiler.git
+[submodule "api-wrapper"]
+	path = api-wrapper
+	url = git@github.com:Hammer-Institute/traincar.git
