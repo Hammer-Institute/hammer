@@ -1,6 +1,6 @@
 # Hammer
 
-Hammer is a chat server written in JavaScript. It is designed to be easy to use and ~~painful~~ *easy* to extend.
+Hammer is a chat server / client written in JavaScript. It is designed to be easy to use and ~~painful~~ *easy* to extend.
 
 ## Installation
 
